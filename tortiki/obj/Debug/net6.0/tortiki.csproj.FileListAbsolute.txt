@@ -1,0 +1,15 @@
+/Users/maria/Projects/tortiki/tortiki/bin/Debug/net6.0/tortiki
+/Users/maria/Projects/tortiki/tortiki/bin/Debug/net6.0/tortiki.deps.json
+/Users/maria/Projects/tortiki/tortiki/bin/Debug/net6.0/tortiki.runtimeconfig.json
+/Users/maria/Projects/tortiki/tortiki/bin/Debug/net6.0/tortiki.dll
+/Users/maria/Projects/tortiki/tortiki/bin/Debug/net6.0/tortiki.pdb
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.csproj.AssemblyReference.cache
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.AssemblyInfoInputs.cache
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.AssemblyInfo.cs
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.dll
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/refint/tortiki.dll
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.pdb
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/tortiki.genruntimeconfig.cache
+/Users/maria/Projects/tortiki/tortiki/obj/Debug/net6.0/ref/tortiki.dll
